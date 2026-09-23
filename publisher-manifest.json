@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "22fc5e1127f9e96e86ce7bbf",
+  "owner": "qcmxgvja",
+  "repo": "page-11eefec83b2812274e866956",
+  "title": "红杏",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "11eefec83b2812274e866956",
+      "a": "红杏",
+      "b": "2027官方最新地址导航",
+      "entity": "红杏",
+      "brand": "红杏",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a99e665a841ed6144abd23534d5faf6a4ea27c5e16c623c9ae07eb1d69f11529",
+      "content": {
+        "primary_entity": "红杏",
+        "keyword1": "红杏",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，订阅配置可参考对应文档。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，按步骤配置即可开始使用。",
+          "AI_CLOSING_TITLE": "从选择到连接",
+          "AI_DESCRIPTION": "，红杏提供基础版、旗舰版与团队版三档套餐，分别对应不同流量与设备数量。基础版每月 100GB 流量、支持 3 台设备在线；旗舰版每月 300GB 流量、支持 5 台设备，并含 IPLC 专线节点；团队版每月 1000GB 流量、支持 20 台设备。按年付可享受相应折扣，用户依自身设备数量与使用强度选择。",
+          "AI_FEATURES_INTRO": "围绕套餐档位、设备数量与订阅周期三方面整理。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "轻量使用选基础版，每月 100GB 流量与 3 台设备在线，满足日常浏览。",
+          "AI_FEATURE_TEXT_2": "多设备或流媒体需求选旗舰版，每月 300GB 流量、5 台设备，含 IPLC 专线节点。",
+          "AI_FEATURE_TEXT_3": "团队协作选团队版，每月 1000GB 流量、20 台设备，可定制路由。",
+          "AI_FEATURE_TITLE_1": "套餐档位",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "从选择服务、查看适配到配置订阅，三步完成。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "红杏面向海外加速场景，提供基础版、旗舰版与团队版三档套餐，覆盖不同流量与设备数量需求。用户可根据使用强度选择月付或年付，并按客户端文档完成订阅配置。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "支持多设备在线",
+          "AI_HIGHLIGHT_3": "按年付享折扣",
+          "AI_PLANS_INTRO": "基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB 流量、5 台设备并含 IPLC 专线；团队版每月 1000GB 流量、20 台设备。年付分别约 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "依据设备数量与月流量需求，在基础版、旗舰版、团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备限制与节点类型，确认满足使用场景。",
+          "AI_STEP_TEXT_3": "依对应客户端文档导入订阅，匹配当前设备系统完成配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "红杏套餐选哪档",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、付费周期与节点选择。",
+          "AI_FAQ_QUESTION_1": "红杏支持哪些设备使用？",
+          "AI_FAQ_ANSWER_1": "红杏提供多个平台的客户端，覆盖 Windows、macOS、iOS、Android 等常见系统，部分路由器也可配置。具体适配情况请参考各客户端文档，按设备类型选择对应版本。",
+          "AI_FAQ_QUESTION_2": "一个账号可以几台设备同时在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。可根据实际设备数量选择合适的套餐，避免超出限制影响使用。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月扣费灵活，年付一次性支付更优惠。基础版年付150元，旗舰版年付350元，团队版年付850元。长期使用建议选择年付方案，折算每月费用更低。",
+          "AI_FAQ_QUESTION_4": "如何导入订阅链接？",
+          "AI_FAQ_ANSWER_4": "购买套餐后获取订阅链接，在对应客户端中找到订阅管理或配置导入入口，粘贴链接并更新即可。不同客户端操作略有差异，可参照客户端文档逐步完成。",
+          "AI_FAQ_QUESTION_5": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_5": "套餐内流量按月计算，用完后可通过续费或升级套餐获取更多流量。旗舰版300GB、团队版1000GB，适合流量需求较大的用户。可在账户内查看当前用量。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rcxcq.cn",
+    "host": "rcxcq.cn"
+  },
+  "file_hashes": {
+    "index.html": "bcc7ce7223dd6b47eb3092bf95323fe7e8394839f992ac3bcb09d96c8dad2c93",
+    "sitemap.xml": "b1cd483e7cfd0b31eb4634e53261afb03dc9e2576dba8c188339c38d4c1d77a1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2da1d83a9fe41a143feff07eead90475026b2251166fc97f62948e19abfba525",
+    "robots.txt": "a15ee6440fa4158d3eeff8df9d558765076b1d286216e07701cb04e7e9ec4fe6",
+    "614701728e1e38fb56422a20e65c69f5.txt": "2063c097116bb0c62ec12683c48eeef270d3ee3ae5ac332724ccc4ec308ef6bf"
+  },
+  "revision": "ace5a37e534b023be896e43d675b4d4efa6ab01a8d095c05ad40fdab8b834dd6"
+}
